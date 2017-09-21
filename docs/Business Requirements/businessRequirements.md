@@ -39,4 +39,3 @@
     - Timing may be a larger constraint on delivery than originally planned
 7. Assumptions
   - These should be added as interviews and analysis continue
-    -
