@@ -23,3 +23,4 @@ The scope of Breadmin : free version is as follows:
 - Inventory
 - Financial aspects of the business
 
+## Rough System Overview
