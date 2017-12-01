@@ -1,0 +1,36 @@
+## Components Needed From Analysis and Design
+- Purpose - from slides
+- Scope - from slides
+- Rough System Overview - from slides; add details
+- Audience
+  - The audiance in mind is novice usersin their 20's - 60's
+  - Bakers, Service staff, and Business Manager
+- User Roles
+  - All Users
+    - User Settings
+	  - Credential edit
+	  - Name edit
+	  - Accent color edit
+	  - Notifications
+	  - Email (what is sent)
+  - Orderer
+    - Ordering/Scheduling Permissions
+	- Order Detail View
+  - Production Manager (PM)
+    - Schedule View/Edit Permissions
+	- Order Detail View
+  - Bakery Manager
+    - All Orderer/PM Permissions
+	- User Creation
+	- Analytics
+- Rough Functional Requirements
+- Wireframes
+  - Screens/Forms Needed
+- Logical/Relational Database Mockup
+
+### Sprint Goals (Next Friday)
+- Finished with rough System Analysis/Design - SP/NE
+- Wireframes/Mockups finished - SP/DR
+- Style Guide - DR
+- First Draft of Database - NE
+- Setup dev environment for next week's prototyping - SP
