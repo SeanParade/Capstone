@@ -10,3 +10,4 @@
 [ ] analytics?
 [ ] cron drop?
 	- scheduling database tasks
+[ ] convert all current documentation to markdown
