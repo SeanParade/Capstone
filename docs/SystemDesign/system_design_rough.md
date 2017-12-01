@@ -22,4 +22,4 @@ The scope of Breadmin : free version is as follows:
 ### OOS
 - Inventory
 - Financial aspects of the business
-- 
+
