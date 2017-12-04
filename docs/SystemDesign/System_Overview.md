@@ -10,6 +10,8 @@ Breadmin is a web-based scheduling system that streamlines the production proces
 
 ### Navigation
 
+### Account Details
+
 ### Managing Users
 
 ### Bakery Configuration
