@@ -7,10 +7,10 @@ Breadmin is a web-based scheduling system that streamlines the production proces
 
 ## How does Breadmin work?
 ### Login
-
+The user is required to login to access Breadmin. This ensures that the bakery products, orders, and schedules are kept secure. 
 ### Navigation
 
-### Account Details
+### Managing Account
 
 ### Managing Users
 
