@@ -3,11 +3,11 @@
 Breadmin is a web-based scheduling system that streamlines the production process of small-scale bakeries. It provides automated scheduling based on your orders, your workstations, and your products. Breadmin includes the following features:
 - Scheduling of product-prep and bake time
 - Analytics based on data collected from orders
-- Customization of notifications received from Breadmin
+- [ Customization of notifications received from Breadmin ]
 
-## Where can you access Breadmin?
-Breadmin can be accessed at :
-www.breadmin.com
+## Features
+### Scheduling
+### Analytics
 
 ## How do you use Breadmin?
 ### Login
@@ -23,8 +23,10 @@ You can manage your account by clicking on your Account Name in the upper-right 
 To manage users, you can click "Manage Users" on the main navigation page. This will direct you to a page where you can add users to allow them to access your Breadmin account.
 
 ### Bakery Configuration
+Before you can start entering orders, you need to add configuration details for your bakery. This involves adding the ovens that are in your bakery, and the number of trays that can fit into each oven.
 
 ### Products
+You will also need to add the products you sell at your bakery. You can do this by clicking the Products tab on the main navigation. 
 
 ### Orders
 
