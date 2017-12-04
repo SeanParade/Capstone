@@ -40,14 +40,19 @@ The Bakery Config page is where the user adds configuration details for their ba
 The Products page is where the user adds products and product details for their bakery. The user will add the product by name, and include the average prep-time and bake-time required for the product.
 
 ### Orders
-
-#### Entering an Order
-
-#### Editing an Order
+The Order page is where the user enters orders for the bakery. The user enters the customer details such as the contact name, name of business, and contact e-mail and/ or phone number. Then the user selects the product from the products they have added, the quantity requested and enters the order information. Entering the order information brings the user to the scheduling page.
 
 #### Scheduling Suggestions
+Once the order details are added, the Production Scheduler will provide suggestions to complete the order in the required time frame. Once a time block is selected, the user can submit the order and the scheduled block will be added to the schedule found on the Production Schedule page.
+
+### Edit Order
+The Edit Order page is where the user can edit orders that have already been submitted, but not yet completed. They look up the order by entering the customer. Once the customer is entered, a drop-down box of orders from that customer is populated from the database, and the user can select an order. Once an order has been selected, the user is directed to the order page, where they can change the details of the order and select a new block of time.
 
 ### Production Schedule
+The Production Schedule page is where the data from the Production Scheduler is displayed to the user in Gantt Chart, and a list with the Action, e.g. "Prep [Product name]", and the Start Time and End Time. The schedule can be either e-mailed or printed directly from this page.
 
 ### Analytics
-
+Analytics is where analytic charts are displayed to the user. The analytics are generated based on the orders and production schedules that have been completed.
+Analytics that will be displayed may include:
+- Product popularity over time
+- Orders completed within time frame
