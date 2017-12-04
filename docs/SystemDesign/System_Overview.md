@@ -28,16 +28,16 @@ Once the username and password have been authenticated, the user is redirected t
 - Analytics
 
 ### Manage Account
-The user can manager their account by clicking on their Account Name in the upper-right corner. The user can enter and save their name and contact information on this page.
+The Manage Account page is where the user can enter and save their name and contact information.
 
-### Managing Users
-To manage users, the user can click "Manage Users" on the main navigation page. This will direct the user to a page where they can add users to allow them to access the main user's Breadmin account.
+### Manage Users
+The Manage Users page is where the user can add users to allow other users to access the Breadmin account.
 
-### Bakery Configuration
-Before the user can start entering orders, they need to add configuration details. This involves adding the ovens that are in the bakery, and the number of trays that can fit into each oven.
+### Bakery Config
+The Bakery Config page is where the user adds configuration details for their bakery. This involves adding the ovens available in the bakery, and the number of trays that can fit in each oven.
 
 ### Products
-The user also needs to add the products sold at their bakery. They can do this by clicking the Products tab on the main navigation. 
+The Products page is where the user adds products and product details for their bakery. The user will add the product by name, and include the average prep-time and bake-time required for the product.
 
 ### Orders
 
