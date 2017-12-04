@@ -5,6 +5,10 @@ Breadmin is a web-based scheduling system that streamlines the production proces
 - Analytics based on data collected from orders
 - Customization of notifications received from Breadmin
 
+## Where can you access Breadmin?
+Breadmin can be accessed at :
+www.breadmin.com
+
 ## How do you use Breadmin?
 ### Login
 You are required to login to access Breadmin. This ensures that your bakery products, orders, and schedules are kept secure. If you don't have an account, you can set up your account for use by clicking the sign up button. If you have forgotten your password, you can use the forgotten password link to request a password reset. 
