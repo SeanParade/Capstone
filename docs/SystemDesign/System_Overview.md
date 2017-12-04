@@ -1,14 +1,16 @@
 # Breadmin System Overview
 ## What is Breadmin?
-Breadmin is a web-based scheduling system that streamlines the production process of small-scale bakeries. It provides automated production scheduling based on your input. Breadmin includes the following features:
+Breadmin is a web-based scheduling system that streamlines the production process of small-scale bakeries. It provides automated production scheduling based on user input. Breadmin includes the following features:
 - Scheduling of product-prep and bake time
 - Analytics based on data collected from orders
 - [ Customization of notifications received from Breadmin ]
 
-## Features
+## Features of Breadmin
 ### Production Scheduling
-Production Scheduling is the main feature of Breadmin. 
+Production Scheduling is the main feature of Breadmin. The production scheduler produces a Gantt Chart and list of timed activities in order to product the products inputed. It schedules blocks of time using the bakery configuration, product prep-time and bake time, and the orders that are inputted by the user. When an order is inputted, the scheduler suggests blocks of time available to complete the order in the required time frame.
+
 ### Analytics
+Analytics is the subsidiary feature of Breadmin. The analytics are generated using data from previous orders and previous production schedules. They are then displayed to the user on the analytics page in table and chart form.
 
 ## How do you use Breadmin?
 ### Login
