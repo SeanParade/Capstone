@@ -14,7 +14,7 @@ Analytics is the subsidiary feature of Breadmin. The analytics are generated usi
 
 ## Breadmin Pages
 ### Login
-The user is required to login to access Breadmin. This ensures that their bakery products, orders, and schedules are kept secure. If the user doesn't have an account, they can set up your account for use by clicking the sign up button. If the user has forgotten their password, they can use the forgotten password link to request a password reset. 
+The user is required to login to access Breadmin. This ensures that their bakery products, orders, and schedules are kept secure. If the user doesn't have an account, they can set up their account for use by clicking the sign up button. If the user has forgotten their password, they can use the forgotten password link to request a password reset. 
 
 ### Navigation
 Once the username and password have been authenticated, the user is redirected to the main menu where the can access the following pages:
