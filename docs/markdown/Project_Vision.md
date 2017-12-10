@@ -98,12 +98,12 @@ The following items are out of scope for this version of the project:
 | BreadminHLR | 1.0 | High Level Requirements for the Breadmin Project |
 |   |   |   |
 
-#### 1.2 Positioning
-#####  1.2.1 Business Opportunity
+#### 2 Positioning
+#####  2.1 Business Opportunity
 
 Customers at Forno Cultura place orders for many different goods. Many of the products have differing, multiple stages of development. Breadmin can offer the service of automated scheduling of production.
 
-##### 1.2.2 Problem Statement
+##### 2.2 Problem Statement
 
 The differing production times for baked goods affects the management as well as the production teams, as they spend considerable time managing and scheduling the production times correctly. A successful solution would allow management and production to coordinate and initiate production at correct times. It would reduce the number of errors that occur from doing the same task manually.
 
@@ -115,7 +115,7 @@ The differing production times for baked goods affects the management as well as
 | **a successful solution would be** | More efficient, with less room for errors, allowing for more time
 for managers and team leaders to work on their tasks for the day. |
 
-#### 1. 2.3 Product Position Statement
+#### 2.3 Product Position Statement
 
 The intent of the application is to remove the burden of scheduling from bakery management and production staff. Breadmin is an administrative tool that will handle the ordering and scheduling of production. Unlike the previous manual system of using paper "chits", our product will have a verifiable log of changes to orders and will provide analytics on bakery orders.
  
@@ -128,12 +128,10 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | **Unlike** | Manual entry of orders |
 | **Our product** | Will log changes to orders, provide analytics on bakery orders, and will reduce the number of errors. |
 
+#### 3 Stakeholder and User Descriptions
+##### 3.1Stakeholder Summary
 
-
-1. 3Stakeholder and User Descriptions
-  1. 3.1Stakeholder Summary
-
-| Stakeholder Name | Represents | Role |
+| **Stakeholder Name** | **Represents** | **Role** |
 | --- | --- | --- |
 | Jan Streekstra
 Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Will provide feedback on prototypes developed throughout the lifecycle of this application.Will provide business requirements and use cases.Will provide equipment and recipe information that will be used in creating the classes for the system. |
