@@ -81,7 +81,7 @@ The following items are out of scope for this version of the project:
 
 #### 1.3 Definitions, Acronyms and Abbreviations
 
-| Term | Definition |
+| **Term** | **Definition** |
 | --- | --- |
 | OOS | Out of Scope |
 | HLR | High Level Requirement |
@@ -89,7 +89,7 @@ The following items are out of scope for this version of the project:
 
 #### 1.4 References
 
-| Reference File Name | Version | Description |
+| **Reference File Name** | **Version** | **Description** |
 | --- | --- | --- |
 | BreadminHLR | 1.0 | High Level Requirements for the Breadmin Project |
 |   |   |   |
