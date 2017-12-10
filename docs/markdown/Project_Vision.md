@@ -14,7 +14,7 @@
 
 #### Document Approval List
 
-| Version | Approved By | Signature | Date |
+| **Version** | **Approved By** | **Signature** | **Date** |
 | --- | --- | --- | --- |
 | 1.0 | Jan Streekstra |   | Oct 6. 2017 |
 
