@@ -53,23 +53,25 @@
 
 <hr>
 
-### Introduction
+### 1. Introduction
 
 This document identifies the scope of this project, the problem we are solving, and the stakeholder's requirements for the system. Additionally, it defines the role of the stakeholders and the users of the system.
 
 
-#### Purpose
+#### 1.1 Purpose
 
 The purpose of this document is to outline the requirements given by the stakeholder. It serves to define the needs of Forno Cultura. It will specify the features the application will have in order to fulfill the needs of Forno Cultura.
 
-1.
-  1. 1.2Scope
+#### 1.2 Scope
 
 The following are the assumptions that have been made in relation to scope of the project.
 
-1.
-  1.
-    1. 1.2.1In Scope
+##### In Scope
+The following items are in scope for this verion of the project:
+1. Order Functionality
+- Management Functionality
+- Analytics on orders and products
+- Production Functionality
 
 The following items are in scope for this version of the project:
 1. Order Functionality
