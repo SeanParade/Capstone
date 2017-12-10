@@ -100,6 +100,9 @@ The following items are out of scope for this version of the project:
 |   |   |   |
 
 <div> page 3 </div>
+
+<hr>
+
 #### 2 Positioning
 #####  2.1 Business Opportunity
 
