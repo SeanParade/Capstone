@@ -79,8 +79,7 @@ The following items are out of scope for this version of the project:
 2. Coordination with other bakery locations
 3. Financial aspects of the business
 
-1.
-  1. 1.3Definitions, Acronyms, and Abbreviations
+#### 1.3 Definitions, Acronyms and Abbreviations
 
 | Term | Definition |
 | --- | --- |
@@ -88,8 +87,7 @@ The following items are out of scope for this version of the project:
 | HLR | High Level Requirement |
 | Products | Baked goods sold at the business |
 
-1.
-  1. 1.4References
+#### 1.4 References
 
 | Reference File Name | Version | Description |
 | --- | --- | --- |
