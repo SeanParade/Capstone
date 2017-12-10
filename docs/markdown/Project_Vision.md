@@ -115,10 +115,7 @@ The differing production times for baked goods affects the management as well as
 | **a successful solution would be** | More efficient, with less room for errors, allowing for more time
 for managers and team leaders to work on their tasks for the day. |
 
-Table 1 Problem Statement
-
-1.
-  1. 2.3Product Position Statement
+#### 1. 2.3 Product Position Statement
 
 The intent of the application is to remove the burden of scheduling from bakery management and production staff. Breadmin is an administrative tool that will handle the ordering and scheduling of production. Unlike the previous manual system of using paper &quot;chits&quot;, our product will have a verifiable log of changes to orders and will provide analytics on bakery orders.
 
