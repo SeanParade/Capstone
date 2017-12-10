@@ -35,6 +35,7 @@
 ### Table of Contents
 
 | **Number** | **Title** | **Page Number**|
+|--- | --- | --- |
 | 1  | Introduction  | 3 | 
 | 1.1 | Purpose | 3  |
 | 1.2 | Scope | 3 |
