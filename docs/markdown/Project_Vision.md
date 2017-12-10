@@ -163,9 +163,9 @@ Table 3 Stakeholder Summary
 
 
 
-1. 5System Features
-
-| ID | Feature | Stakeholder Requirement ID |
+### 5 System Features
+**System Features Table**
+| **ID** | **Feature** | **Stakeholder Requirement ID** |
 | --- | --- | --- |
 | F1 | Order Functionality |   |
 | F1.1 | Record Customer Info | HLR01 |
