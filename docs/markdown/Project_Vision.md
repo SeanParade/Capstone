@@ -32,17 +32,13 @@
 
 ### Table of Contents
 
-1.        Introduction       3
-1.1        Purpose        3
-
-1.2        Scope        3
-
-1.2.1        In Scope    3    
-
-1.2.2        Out of Scope    3
-1.3        Definitions, Acronyms, and Abbreviations   3
-
-1.4        References        3
+1.  Introduction                                       3 
+	1.1. Purpose                                       3
+	1.2. Scope                                         3
+	..1.2.1. In Scope                                  3    
+	..1.2.2. OOS                                       3
+	1.3. Definitions, Acronyms, and Abbreviations      3
+	1.4. References                                    3
 
 2        Positioning        3
 
