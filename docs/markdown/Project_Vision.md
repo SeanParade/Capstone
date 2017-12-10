@@ -117,7 +117,7 @@ for managers and team leaders to work on their tasks for the day. |
 
 #### 1. 2.3 Product Position Statement
 
-The intent of the application is to remove the burden of scheduling from bakery management and production staff. Breadmin is an administrative tool that will handle the ordering and scheduling of production. Unlike the previous manual system of using paper &quot;chits&quot;, our product will have a verifiable log of changes to orders and will provide analytics on bakery orders.
+The intent of the application is to remove the burden of scheduling from bakery management and production staff. Breadmin is an administrative tool that will handle the ordering and scheduling of production. Unlike the previous manual system of using paper "chits", our product will have a verifiable log of changes to orders and will provide analytics on bakery orders.
 
 | For | Bakery Management and Production Staff |
 | --- | --- |
