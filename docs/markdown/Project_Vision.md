@@ -39,34 +39,23 @@
 	..1.2.2. OOS                                       3
 	1.3. Definitions, Acronyms, and Abbreviations      3
 	1.4. References                                    3
+2.  Positioning                                        3
+	2.1. Business Opportunity                          3
+	2.2. Problem Statement                             3
+	2.3. Product Position Statement                    3
+3.  Stakeholder and User Descriptions                  3
+	3.1. Stakeholder Summary                           3
+	3.2. User Summary                                  3
+4.  Stakeholder Requirements                           3
+5.  System Features                                    3
+6.  Assumptions                                        3
+7.  Constraints                                        3
 
-2        Positioning        3
+<hr>
 
-2.1        Business Opportunity        3
+### Introduction
 
-2.2        Problem Statement        3
-
-2.3        Product Position Statement        3
-
-3        Stakeholder and User Descriptions        3
-
-3.1        Stakeholder Summary        3
-
-3.2        User Summary        3
-
-4        Stakeholder Requirements        3
-
-5        System Features        3
-
-6        Assumptions        3
-
-7        Constraints        3
-
-
-
-1. 1Introduction
-
-This document identifies the scope of this project, the problem we are solving, and the stakeholder&#39;s requirements for the system. Additionally, it defines the role of the stakeholders and the users of the system.
+This document identifies the scope of this project, the problem we are solving, and the stakeholder's requirements for the system. Additionally, it defines the role of the stakeholders and the users of the system.
 
 1.
   1. 1.1Purpose
