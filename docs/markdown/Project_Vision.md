@@ -133,6 +133,9 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | **Unlike** | Manual entry of orders |
 | **Our product** | Will log changes to orders, provide analytics on bakery orders, and will reduce the number of errors. |
 
+<div> page 4</div>
+<hr>
+
 ### 3 Stakeholder and User Descriptions
 #### 3.1Stakeholder Summary
 ##### **Stakeholder Summary Table**
@@ -149,9 +152,6 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | [Bakery Manager] | Will input orders, access analytics, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra  |
 | [Production Manager] | Will edit orders, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra |
 
-<div>page 5 </div>
-
-<hr>
 
 ### 4 Stakeholder Requirements
 ##### **Stakeholder Requirements Table**
@@ -165,7 +165,9 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | HLR06 | Client must be able to collaborate with other members of ordering process through note section of application | Jan Streekstra |
 | HLR07 | Client must be able to access production schedules while offline  | Jan Streekstra |
 
+<div> page 5</div>
 
+<hr>
 
 ### 5 System Features
 ##### **System Features Table**
@@ -198,4 +200,4 @@ The intent of the application is to remove the burden of scheduling from bakery 
 
 - There must be a way to access the production schedule tasks offline incase the production team does not have network access.
 
-<div style="text-align: right"> page 3</div>
+<div style="text-align: right"> page 6</div>
