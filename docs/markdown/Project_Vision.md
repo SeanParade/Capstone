@@ -131,7 +131,7 @@ The intent of the application is to remove the burden of scheduling from bakery 
 
 ### 3 Stakeholder and User Descriptions
 #### 3.1Stakeholder Summary
-##### ** Stakeholder Summary Table**
+##### **Stakeholder Summary Table**
 | **Stakeholder Name** | **Represents** | **Role** |
 | --- | --- | --- |
 | Jan Streekstra, Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Will provide feedback on prototypes developed throughout the lifecycle of this application.Will provide business requirements and use cases.Will provide equipment and recipe information that will be used in creating the classes for the system. |
@@ -146,7 +146,7 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | [Production Manager] | Will edit orders, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra |
 
 
-### 4 Stakeholder Requirementsx
+### 4 Stakeholder Requirements
 ##### **Stakeholder Requirements Table**
 | **ID** | **Requirement** | **Stakeholder** |
 | --- | --- | --- |
