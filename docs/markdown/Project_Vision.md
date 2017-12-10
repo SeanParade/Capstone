@@ -150,6 +150,7 @@ Table 3 Stakeholder Summary
 
 ### 4 Stakeholder Requirements
 
+**Stakeholder Requirements Table**
 | **ID** | **Requirement** | **Stakeholder** |
 | --- | --- | --- |
 | HLR01 | Client must be able to input customer product orders and customer information | Jan Streekstra |
@@ -160,7 +161,7 @@ Table 3 Stakeholder Summary
 | HLR06 | Client must be able to collaborate with other members of ordering process through note section of application | Jan Streekstra |
 | HLR07 | Client must be able to access production schedules while offline  | Jan Streekstra |
 
-Table 5 Stakeholder Requirements
+
 
 1. 5System Features
 
