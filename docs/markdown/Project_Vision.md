@@ -42,17 +42,17 @@
 | 1.2.1 | In Scope | 3 |
 | 1.3 | Definitions, Acronyms and Abbreviations | 3 |
 | 1.4 | References | 3 |
-| 2 | Positioning | 3 |
-| 2.1 | Business Opportunity | 3 |
-| 2.2 | Problem Statement | 3 |
-| 2.3 | Product Position Statement | 3 |
-| 3 | Stakeholder and User Descriptions | 3 |
-| 3.1 | Stakeholder Summary | 3 |
-| 3.2 | User Summary | 3 |
-| 4 | Stakeholder Requirements | 3 |
-| 5 | System Features | 3 |
-| 6 | Assumptions | 3 |
-| 7 | Constraints | 3 |
+| 2 | Positioning | 4 |
+| 2.1 | Business Opportunity | 4 |
+| 2.2 | Problem Statement | 4 |
+| 2.3 | Product Position Statement | 4 |
+| 3 | Stakeholder and User Descriptions | 5 |
+| 3.1 | Stakeholder Summary | 5 |
+| 3.2 | User Summary | 5 |
+| 4 | Stakeholder Requirements | 5 |
+| 5 | System Features | 6 |
+| 6 | Assumptions | 6 |
+| 7 | Constraints | 6 |
 
 <div style= "text-align:right"> page 2 </div>
 
@@ -200,4 +200,6 @@ The intent of the application is to remove the burden of scheduling from bakery 
 
 - There must be a way to access the production schedule tasks offline incase the production team does not have network access.
 
-<div style="text-align: right"> page 6</div>
+<div> page 6</div>
+
+<hr>
