@@ -162,7 +162,7 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 
 
 ### 5 System Features
-**System Features Table**
+##### **System Features Table**
 | **ID** | **Feature** | **Stakeholder Requirement ID** |
 | --- | --- | --- |
 | F1 | Order Functionality |   |
