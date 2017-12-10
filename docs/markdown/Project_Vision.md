@@ -67,22 +67,13 @@ The purpose of this document is to outline the requirements given by the stakeho
 The following are the assumptions that have been made in relation to scope of the project.
 
 ##### In Scope
-The following items are in scope for this verion of the project:
+The following items are in scope for this version of the project:
 1. Order Functionality
 - Management Functionality
 - Analytics on orders and products
 - Production Functionality
 
-The following items are in scope for this version of the project:
-1. Order Functionality
-2.  Management Functionality
-2.1. Analytics on orders and products
-3. Production Functionality
-
-1.
-  1.
-    1. 1.2.2Out of Scope
-
+##### Out Of Scope
 The following items are out of scope for this version of the project:
 1. Inventory management
 2. Coordination with other bakery locations
