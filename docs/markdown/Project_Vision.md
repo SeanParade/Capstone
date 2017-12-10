@@ -140,14 +140,14 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 Table 3 Stakeholder Summary
 
 #### 3.2 User Summary
-
+**User Summary Table**
 | **User Name** | **Description** | **Responsibilities** | **Stakeholder** |
 | --- | --- | --- | --- |
 | [Reception] | Will input orders to the system | None. | Jan Streekstra |
 | [Bakery Manager] | Will input orders, access analytics, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra  |
 | [Production Manager] | Will edit orders, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra |
 
-Table 4 User Summary
+
 
 1 4Stakeholder Requirements
 
