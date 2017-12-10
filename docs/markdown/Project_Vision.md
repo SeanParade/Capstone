@@ -137,7 +137,6 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | Jan Streekstra
 Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Will provide feedback on prototypes developed throughout the lifecycle of this application.Will provide business requirements and use cases.Will provide equipment and recipe information that will be used in creating the classes for the system. |
 
-Table 3 Stakeholder Summary
 
 #### 3.2 User Summary
 **User Summary Table**
