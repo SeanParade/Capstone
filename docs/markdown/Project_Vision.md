@@ -148,10 +148,9 @@ Table 3 Stakeholder Summary
 | [Production Manager] | Will edit orders, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra |
 
 
+### 4 Stakeholder Requirements
 
-1 4Stakeholder Requirements
-
-| ID | Requirement | Stakeholder |
+| **ID** | **Requirement** | **Stakeholder** |
 | --- | --- | --- |
 | HLR01 | Client must be able to input customer product orders and customer information | Jan Streekstra |
 | HLR02 | Client must receive production schedule generated from the orders schedule | Jan Streekstra |
