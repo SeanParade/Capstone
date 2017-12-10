@@ -103,16 +103,16 @@ The following items are out of scope for this version of the project:
 
 Customers at Forno Cultura place orders for many different goods. Many of the products have differing, multiple stages of development. Breadmin can offer the service of automated scheduling of production.
 
-1.
-  1. 2.2 Problem Statement
+##### 1.2.2 Problem Statement
 
 The differing production times for baked goods affects the management as well as the production teams, as they spend considerable time managing and scheduling the production times correctly. A successful solution would allow management and production to coordinate and initiate production at correct times. It would reduce the number of errors that occur from doing the same task manually.
 
-| The Problem of | Scheduling production times |
+##### **Problem Statement Table**
+| **The Problem of** | Scheduling production times |
 | --- | --- |
-| affects | Bakery Management, Production Teams |
-| the impact of which is | Less efficiency, more errors made, lost time |
-| a successful solution would be | More efficient, with less room for errors, allowing for more time
+| **affects** | Bakery Management, Production Teams |
+| **the impact of which is** | Less efficiency, more errors made, lost time |
+| **a successful solution would be** | More efficient, with less room for errors, allowing for more time
 for managers and team leaders to work on their tasks for the day. |
 
 Table 1 Problem Statement
