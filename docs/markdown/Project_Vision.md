@@ -184,14 +184,12 @@ Table 3 Stakeholder Summary
 | F3.2 | Display orders completed by time period | HLR05 |
 | F3.3 | Display products made in selected time-period | HLR05 |
 
-Table 6 System Features
 
-1. 6Assumptions
-
+### 6 Assumptions
 - Client will input orders to the system so that it may process order data
 - Bakery Manager and Order Takers will have unrestricted access to internet
 - The bakery will have enough ingredients to fulfill the orders
 
-1. 7Constraints
+#### 7 Constraints
 
 - There must be a way to access the production schedule tasks offline incase the production team does not have network access.
