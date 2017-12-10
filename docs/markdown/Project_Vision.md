@@ -3,6 +3,8 @@
 ## Version 1.00
 ### 10/6/2017
 
+<hr>
+
 #### Revision History
 
 |**Revision** | **Date** | **Author** | **Reviewed By** | **Summary of Changes** |
@@ -26,21 +28,19 @@
 | 1.0 | Dev Team – T10 | Oct 6,2017 |
 | 1.0 | Anjana Shah | Oct 6,2017 |
 
+<hr>
 
+### Table of Contents
 
-Table of Contents
-
-1        Introduction        3
-
+1.        Introduction       3
 1.1        Purpose        3
 
 1.2        Scope        3
 
-1.2.1        In Scope        3
+1.2.1        In Scope    3    
 
-1.2.2        Out of Scope        3
-
-1.3        Definitions, Acronyms, and Abbreviations        3
+1.2.2        Out of Scope    3
+1.3        Definitions, Acronyms, and Abbreviations   3
 
 1.4        References        3
 
