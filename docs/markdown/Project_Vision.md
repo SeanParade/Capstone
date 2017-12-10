@@ -188,7 +188,7 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 - Bakery Manager and Order Takers will have unrestricted access to internet
 - The bakery will have enough ingredients to fulfill the orders
 
-#### 7 Constraints
+### 7 Constraints
 
 - There must be a way to access the production schedule tasks offline incase the production team does not have network access.
 
