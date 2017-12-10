@@ -12,7 +12,7 @@
 | 0.4 | 2017-10-06 | Nooran El-Sherif | SP | Revised User Information : added Production Manager,Added High Level Requirements, added definition |
 | 1.0 | 2017 | Sean Price | Jan Streekstra | Feature Overhaul |
 
-**Document Approval List**
+#### Document Approval List
 
 | Version | Approved By | Signature | Date |
 | --- | --- | --- | --- |
