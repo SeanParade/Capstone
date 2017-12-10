@@ -54,7 +54,7 @@
 | 6 | Assumptions | 6 |
 | 7 | Constraints | 6 |
 
-<div style= "text-align:right"> page 2 </div>
+<div> page 2 </div>
 
 <hr>
 
