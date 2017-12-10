@@ -29,6 +29,7 @@
 | 1.0 | Anjana Shah | Oct 6,2017 |
 
 <div stype="text-align:right"> page 1</div>
+
 <hr>
 
 ### Table of Contents
@@ -53,6 +54,7 @@
 | 7 | Constraints | 3 |
 
 <div style= "text-align:right"> page 2 </div>
+
 <hr>
 
 ### 1. Introduction
@@ -96,13 +98,13 @@ The following items are out of scope for this version of the project:
 | BreadminHLR | 1.0 | High Level Requirements for the Breadmin Project |
 |   |   |   |
 
-1. 2Positioning
-  1. 2.1Business Opportunity
+#### 1.2 Positioning
+#####  1.2.1 Business Opportunity
 
 Customers at Forno Cultura place orders for many different goods. Many of the products have differing, multiple stages of development. Breadmin can offer the service of automated scheduling of production.
 
 1.
-  1. 2.2Problem Statement
+  1. 2.2 Problem Statement
 
 The differing production times for baked goods affects the management as well as the production teams, as they spend considerable time managing and scheduling the production times correctly. A successful solution would allow management and production to coordinate and initiate production at correct times. It would reduce the number of errors that occur from doing the same task manually.
 
