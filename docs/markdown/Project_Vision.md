@@ -57,8 +57,8 @@
 
 This document identifies the scope of this project, the problem we are solving, and the stakeholder's requirements for the system. Additionally, it defines the role of the stakeholders and the users of the system.
 
-1.
-  1. 1.1Purpose
+
+#### Purpose
 
 The purpose of this document is to outline the requirements given by the stakeholder. It serves to define the needs of Forno Cultura. It will specify the features the application will have in order to fulfill the needs of Forno Cultura.
 
