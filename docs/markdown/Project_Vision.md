@@ -51,23 +51,7 @@
 | 6 | Assumptions | 3 |
 | 7 | Constraints | 3 |
 
-	- Scope                                         3
-	  - In Scope                                  3    
-	  - Out of Scope                                       3
-	1.3. Definitions, Acronyms, and Abbreviations      3
-	1.4. References                                    3
-2.  Positioning                                        3
-	2.1. Business Opportunity                          3
-	2.2. Problem Statement                             3
-	2.3. Product Position Statement                    3
-3.  Stakeholder and User Descriptions                  3
-	3.1. Stakeholder Summary                           3
-	3.2. User Summary                                  3
-4.  Stakeholder Requirements                           3
-5.  System Features                                    3
-6.  Assumptions                                        3
-7.  Constraints                                        3
-
+<div style= "text-align:right"> page 2 </div>
 <hr>
 
 ### 1. Introduction
