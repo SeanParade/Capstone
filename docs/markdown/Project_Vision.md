@@ -139,7 +139,7 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 
 
 #### 3.2 User Summary
-**User Summary Table**
+##### **User Summary Table**
 | **User Name** | **Description** | **Responsibilities** | **Stakeholder** |
 | --- | --- | --- | --- |
 | [Reception] | Will input orders to the system | None. | Jan Streekstra |
