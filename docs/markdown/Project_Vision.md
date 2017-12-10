@@ -131,6 +131,7 @@ The intent of the application is to remove the burden of scheduling from bakery 
 #### 3 Stakeholder and User Descriptions
 ##### 3.1Stakeholder Summary
 
+** Stakeholder Summary Table**
 | **Stakeholder Name** | **Represents** | **Role** |
 | --- | --- | --- |
 | Jan Streekstra
