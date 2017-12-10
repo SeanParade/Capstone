@@ -57,7 +57,7 @@
 
 <hr>
 
-### 1. Introduction
+### 1 Introduction
 
 This document identifies the scope of this project, the problem we are solving, and the stakeholder's requirements for the system. Additionally, it defines the role of the stakeholders and the users of the system.
 
