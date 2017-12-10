@@ -18,9 +18,9 @@
 | --- | --- | --- | --- |
 | 1.0 | Jan Streekstra |   | Oct 6. 2017 |
 
-**Document Distribution  List**
+#### Document Distribution  List
 
-| Version | Name of the Receiver/Group | Date |
+| **Version** | **Name of the Receiver/Group** | **Date** |
 | --- | --- | --- |
 | 1.0 | Jan Streekstra | Oct 6, 2017 |
 | 1.0 | Dev Team – T10 | Oct 6,2017 |
