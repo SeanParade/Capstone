@@ -128,8 +128,8 @@ The intent of the application is to remove the burden of scheduling from bakery 
 | **Unlike** | Manual entry of orders |
 | **Our product** | Will log changes to orders, provide analytics on bakery orders, and will reduce the number of errors. |
 
-#### 3 Stakeholder and User Descriptions
-##### 3.1Stakeholder Summary
+### 3 Stakeholder and User Descriptions
+#### 3.1Stakeholder Summary
 
 ** Stakeholder Summary Table**
 | **Stakeholder Name** | **Represents** | **Role** |
@@ -139,9 +139,9 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 
 Table 3 Stakeholder Summary
 
-##### 3.2 User Summary
+#### 3.2 User Summary
 
-| User Name | Description | Responsibilities | Stakeholder |
+| **User Name** | **Description** | **Responsibilities** | **Stakeholder** |
 | --- | --- | --- | --- |
 | [Reception] | Will input orders to the system | None. | Jan Streekstra |
 | [Bakery Manager] | Will input orders, access analytics, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra  |
@@ -149,7 +149,7 @@ Table 3 Stakeholder Summary
 
 Table 4 User Summary
 
-1. 4Stakeholder Requirements
+1 4Stakeholder Requirements
 
 | ID | Requirement | Stakeholder |
 | --- | --- | --- |
