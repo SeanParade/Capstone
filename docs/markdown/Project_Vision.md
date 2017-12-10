@@ -147,9 +147,8 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 | [Production Manager] | Will edit orders, print production schedules | Feedback on prototypesProvide requirements and use casesProvide equipment and recipe information | Jan Streekstra |
 
 
-### 4 Stakeholder Requirements
-
-**Stakeholder Requirements Table**
+### 4 Stakeholder Requirementsx
+##### **Stakeholder Requirements Table**
 | **ID** | **Requirement** | **Stakeholder** |
 | --- | --- | --- |
 | HLR01 | Client must be able to input customer product orders and customer information | Jan Streekstra |
