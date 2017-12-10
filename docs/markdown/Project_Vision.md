@@ -139,8 +139,7 @@ Lead Baker at Forno Cultura | This is the main stakeholder of our project. | Wil
 
 Table 3 Stakeholder Summary
 
-1.
-  1. 3.2User Summary
+##### 3.2 User Summary
 
 | User Name | Description | Responsibilities | Stakeholder |
 | --- | --- | --- | --- |
